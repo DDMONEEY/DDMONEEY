@@ -46,7 +46,7 @@
         </a>
       </td>
       <td align="center" style="padding: 10px; border-radius: 10px; background-color:#f5f5f5;">
-        <h4>MyLena Bertaglia</h4>
+        <h4>Mylena Bertaglia</h4>
         <p>Website moderno para dentista, interface intuitiva.</p>
         <a href="https://mylenabertaglia.com.br/" target="_blank">
           <img src="https://img.shields.io/badge/Acessar-Online-brightgreen?style=for-the-badge" alt="MyLena Bertaglia" />
